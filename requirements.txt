@@ -1,0 +1,27 @@
+# === Core Trading ===
+ccxt>=4.1.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# === Technical Analysis ===
+ta>=0.11.0
+
+# === Forecasting ===
+yfinance
+matplotlib
+
+# === AI / LLM ===
+openai>=1.0.0
+
+# === Database ===
+psycopg2-binary
+
+# === HTTP / API ===
+requests>=2.28.0
+
+# === Environment ===
+python-dotenv>=1.0.0
+
+# === Scheduling (opzionale, per alternative a loop) ===
+# schedule>=1.2.0
+# apscheduler>=3.10.0
