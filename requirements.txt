@@ -18,6 +18,7 @@ psycopg2-binary
 
 # === HTTP / API ===
 requests>=2.28.0
+streamlit
 
 # === Environment ===
 python-dotenv>=1.0.0
